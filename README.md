@@ -2,14 +2,19 @@
 
 **Definition**  
 A **judgment** is a legal decision issued by a court, often in a financial or civil dispute. When a court orders one party (the debtor) to pay money or fulfill an obligation to another party (the creditor), the judgment can create a lien on the debtor's property. This lien is recorded in public records and can affect the property's title until resolved.
- (OR) 
- A judgment is a court's decision, often in the context of financial disputes, which can become a lien on a person's property if they are required to pay money and fail to do so.
-How It Relates to Title: Judgments can create liens against real property, preventing the owner from selling or refinancing until the judgment is paid or settled.
 
-Types of Judgments:
+                               (OR)
+ 
+A **judgment** is a court's decision, often in the context of financial disputes, which can become a lien on a person's property if they are required to pay money and fail to do so.
+
+**How It Relates to Title:** Judgments can create liens against real property, preventing the owner from selling or refinancing until the judgment is paid or settled.
+
+**Types of Judgments:**
 Money Judgment: A court orders the defendant to pay a specific sum of money to the plaintiff. This judgment can be attached to property as a lien.
+
 Tax Lien Judgment: Imposed by the government when a property owner fails to pay property taxes. The lien must be satisfied before the property can be sold.
 Mechanic’s Lien Judgment: A contractor or construction professional can place a lien on a property if the owner fails to pay for services rendered.
+
 Foreclosure Judgment: Occurs when a borrower defaults on a mortgage. The lender can take legal action to repossess the property.
 ---
 
